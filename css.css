@@ -1,0 +1,11 @@
+.sliderArea {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 25px;
+}
+.slick-slide {
+  margin: 0 5px;
+}
+.slick-prev, .slick-next {
+  z-index: 1;
+}
